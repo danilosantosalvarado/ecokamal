@@ -1,0 +1,85 @@
+
+
+.q_slide_text{
+letter-spacing: 0.7px;
+}
+
+.carousel-inner .slider_content .text .qbutton {
+    margin: 0px 0 0;
+}
+ 
+
+.portfolio_main_holder .item_holder.subtle_vertical_hover .icons_holder a {
+    background-color: #252525;
+    color: #fff;
+}
+
+.projects_holder article .portfolio_description .portfolio_title {
+    margin: 10px 0 16px;
+}
+
+.q_progress_bar .progress_title_holder {
+    position: relative;
+    margin: 0 0 9px;
+}
+.q_list.circle ul>li, .q_list.number ul>li {
+    margin: 0 0 16.7px;
+    padding: 0 0 0 27px;
+}
+.q_list.circle ul>li:before {
+    top: 6px;
+    background-color: #2a2a2a; 
+    width: 6px;
+    height: 6px;
+}
+
+
+.testimonials_holder.light .flex-direction-nav a:hover {
+     background-color: #737373;           
+    border-color: #fff;
+}
+
+.portfolio_single .portfolio_container {
+    margin-top: 10px;
+}
+
+.portfolio_navigation .portfolio_prev a:hover{
+    background-color: rgba(37, 37, 37, 0);
+}
+
+@media only screen and (min-width: 1000px){
+    .projects_holder.v3 .mix, .projects_holder.v3.hover_text .mix {
+        width: 32%;
+        margin: 0 0 1.8%;
+    }
+}
+
+aside.vertical_menu_area .vertical_menu_area_widget_holder {
+  
+    font-size: 11px;
+}
+
+.cf7_custom_style_1 textarea.wpcf7-form-control.wpcf7-textarea{
+margin-bottom: 12px;
+}
+
+.two_columns_50_50>.column1>.column_inner {
+    padding: 0 4px 0 0;
+}
+
+.filter_outer {
+  text-align: left;
+}
+
+.vertical_menu_enabled .full_width .filter_outer {
+    margin: 0 0 45px;
+}
+
+ .filter_holder ul li.active, .filter_holder ul li:hover {
+border: 1px solid #000;
+}
+
+.filter_holder ul li {
+    margin: 0 1px;
+    border: 1px solid transparent;
+}
